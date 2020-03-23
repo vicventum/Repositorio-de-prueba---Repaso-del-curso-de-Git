@@ -3,3 +3,9 @@ Repaso del curso de Git/GitHub
 Este será el primer cambio del archivo
 
 Este será el primer cambio despues de haber hecho el reset --hard
+
+Un nuevo cambio para experimentar con el "git reset"
+
+Segundo cambio justo antes de experimentar con el "git reset"
+
+Primer cambio despues de experimentar con el "git reset". Todo lo que tenia hasta el momento en el directory no se me reemplaza
