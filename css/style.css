@@ -14,7 +14,14 @@ body {
     background-color: rgb(32, 87, 168);
     color: lightskyblue;
 }
+.container {
+    width: 70%;
+    /* padding: 1em; */
+    text-align: center;
+    border: 1px dashed rgb(172, 172, 255);
+    margin: 0 auto;
 
+}
 .cabecera {
     background-color: rgb(63, 120, 205);
     color: whitesmoke;
@@ -30,17 +37,16 @@ body {
     font-weight: normal;
     font-size: .8em;
 }
-.container {
-    width: 70%;
-    padding: 1em;
-    text-align: center;
-    border: 1px dashed rgb(172, 172, 255);
-    margin: 0 auto;
 
-}
 .container h1 {
     font-size: 20px;
 }
 .post {
-    margin-top: 1.5em;
+    margin: 2em;
+}
+
+.footer {
+    color: aliceblue;
+    padding: .5em;
+    background-color: rgb(48, 48, 48);
 }
