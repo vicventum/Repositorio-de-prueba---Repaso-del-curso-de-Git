@@ -12,3 +12,4 @@ Primer cambio despues de experimentar con el "git reset". Todo lo que tenia hast
 
 
 Agregado un cambio desde Git para probar el conflicto de los cambios hechos en GitHub
+Agregado un cambio desde GitHub para probar el conflicto en git
